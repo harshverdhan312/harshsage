@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hi, I'm Harsh Verdhan Singh</h1>
 
 <h3 align="center">
-Full Stack Web & Flutter Developer • AI & ML Student • Open Source Contributor
+Full Stack Web & App Developer • AI & ML Student • Open Source Contributor
 </h3>
 
 <p align="center">
